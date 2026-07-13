@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Chal-B
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#2F80ED&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#2F80ED
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
