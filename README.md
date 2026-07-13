@@ -1,25 +1,43 @@
-## Chalbhery Malonga
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:06B6D4&height=180&section=header&text=Saint%20Chalbhery%20Malonga&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner" />
+</p>
 
-Front-end developer building clean, responsive web interfaces — from static pages to modern React applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Full-stack+developer;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%26+Next.js+enthusiast" alt="typing effect" />
+</p>
 
-### Stack
+### Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" alt="Front-end icons" />
+</p>
+
+### Back-end
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,postgres,mongodb" alt="Back-end icons" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Tools icons" />
+</p>
 
 ### Focus
 
 - Building interfaces with HTML, CSS and JavaScript/TypeScript
 - Styling fast with Tailwind CSS
 - Developing web apps with React and Next.js
+- Building APIs and services with Node.js, Express and NestJS
+- Working with SQL and NoSQL databases (PostgreSQL, MongoDB)
 - Versioning and collaborating with Git & GitHub
+
+### Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chal-B/Chal-B/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
 
 ### Contact
 
